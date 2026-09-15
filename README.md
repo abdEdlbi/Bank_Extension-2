@@ -52,5 +52,3 @@ git clone [https://github.com/abdEdlbi/Bank_System.git](https://github.com/abdEd
 GitHub: https://github.com/abdEdlbi
 
 LinkedIn: https://www.linkedin.com/in/abdulrahman-edlbi-3572333b2
-
-🙏 الشكر والتقدير: شكر خاص للدكتور محمد أبو هدهود على هذا الكورس المتميز والجهد الكبير المبذول فيه.
